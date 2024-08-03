@@ -1,11 +1,12 @@
 # Filament-Spooling-2024A
 DMMS Autumn 2024 - Filament Spooling Project.
 Hello,
-we hope that our compilation of materials we produced in DMMS 2024 Autumn will be of good use to you.
-Unfortunately there is a delay in the Filament Quality Assessment documentation as well as a video we 
-plan to make to demonstrate the system (such that its success can be replicated).
+the material you see here was crated in a 12 week period for the subject Design in Mechanical and Mechatronic Systems 
+in Autumn 2024 at the University of Technology Sydney. We hope that our compilation of materials produced
+will be of good use to you.
 
 You are free to use this in any way you like, however, should you publish anything from here please credit 
 us for any work or research we have conducted as this took a lot of time and effort.
+REF: Chu, J., Luu, M., Harris, J. & Do, D. (2024). Filament Spooling 2024A. https://github.com/jc83751/Filament-Spooling-2024A
 
-- Jeremy C.
+'- Jeremy C.
